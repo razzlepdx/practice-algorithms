@@ -1,5 +1,6 @@
 # solution for day 12 of Hackerrank 30 days of Code challenge
 
+
 class Student(Person):
 
     #   Class Constructor
